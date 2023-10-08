@@ -9,3 +9,8 @@ The model was trained for 5 epochs:
 
 Example inference on test set:
 ![inference](./artifacts/visualize.png)
+
+### TODO
+
+* Add remaining inference script
+* Add custom assets such as dataset used for training and inference
